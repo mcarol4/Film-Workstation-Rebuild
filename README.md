@@ -1,4 +1,4 @@
-# Film-Workstation-Rebuild
+# Rebuild of Mid-2010's MSI Desktop Into Modern Film Editing Workstation
 backed up the users folder from the computer while it still had windows 7 on it. 
 Disconnected peripheral devices, (Asus monitor, usb expansion port, WD external hard drives). 
 Remove the front plate screws to expose the inside of the tower. 
